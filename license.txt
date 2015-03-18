@@ -1,0 +1,15 @@
+To run, type "autotyping" at the command window and select appropriate
+behavior task. For SOR, Social Interaction and fear conditioning, 
+once you complete the analysis, you can view the interaction/freezing bouts by typing "inspect"
+at the command window and making the appropriate selection.
+Please refer to the below referenced website and accompanying paper in
+Frontiers in Behavioral Neuroscience for more details. Questions and
+suggestions for improvement can be addressed to tapan.p.patel@gmail.com
+
+
+Citation: 
+Patel TP, Gullotti DM, Hernandez P, O'Brien WT, Capehart BP, Morrison B, Bass C, 
+Eberwine JE, Abel T, Meaney DF. An open-source toolbox for automated 
+phenotyping of mice in behavioral tasks. Frontiers in Behavioral Neuroscience. 2014 Oct; 8:349. PMC4189437
+www.seas.upenn.edu/~molneuro/autotyping.html
+Copyright 2014, Tapan Patel PhD, University of Pennsylvania

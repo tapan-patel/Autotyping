@@ -1,0 +1,13 @@
+% Change log
+% 10/23/14
+% - Added support for Mac OSX. Ensure that VLC player is installed on your
+% Mac to be able to view the videos from within Matlab GUI.
+% - Updated visualization of interaction bouts for SOR (2 and 3 objects),
+% Social interaction and freezing bouts for Fear conditioning. Run inspect
+% from within the parent autotyping directory.
+% - Updated automated detection of objects in the SOR arena.
+
+
+% 12/17/14
+% Bug fixes for duration of video processing and scoring of YMaze
+% Added error checking
